@@ -837,8 +837,6 @@ public class Text {
 			return letterModels[65];
 		case('/'):
 			return letterModels[66];
-		case('÷'):
-			return letterModels[67];
 		case('='):
 			return letterModels[68];
 		case('%'):
